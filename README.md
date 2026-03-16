@@ -1,5 +1,6 @@
 # MedBook
 Metodyka projektowania systemów informacyjnych (2026L)  
+Pobierz git for Windows
 
 ## Setup
 1. Sklonuj repozytorium na swój komputer:
