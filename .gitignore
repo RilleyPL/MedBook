@@ -1,0 +1,9 @@
+# Enterprise Architect project files
+*.eap
+*.qea
+
+# Lock / temporary files
+*.lck
+*.ldb
+*.eapx
+*.feap
