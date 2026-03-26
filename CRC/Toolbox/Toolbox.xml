@@ -1,0 +1,28 @@
+<?xml  version='1.0' encoding='windows-1252' ?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="1D3350CE32" name="PW-CRC-Janiszewski" version="1.0" notes="PW-CRC-Janiszewski"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="Struktura" notes="" cx="0" cy="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="PW-CRC-Janiszewski::CRC(UML::Class)" type="" description="" unit="" values="" default="Karta CRC"/>
+					<Tag name="PW-CRC-Janiszewski::Odpowiedzialno&#x15B;&#x107;(UML::Operation)" type="" description="" unit="" values="" default="Odpowiedzialno&#x15B;&#x107; karty"/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="Zachowanie" notes="" cx="0" cy="0">
+				<AppliesTo>
+					<Apply type="ToolboxPage"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="PW-CRC-Janiszewski::Komunikat(UML::Operation)" type="" description="" unit="" values="" default="Komunikat"/>
+				</TaggedValues>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+		<ViewDefinitions/>
+		<Metamodel/>
+	</Content>
+</UMLProfile>
